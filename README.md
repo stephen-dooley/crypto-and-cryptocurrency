@@ -1,5 +1,5 @@
 ### Coursera Crypto and Cryptocurrency Course
 
 ### Project Structure
-1. **Assignment 1** - Scrooge Coin
-2. **Assignment 2** - Consensus from trust
+1. **Coin** - Scrooge Coin
+2. **Upcoming Work** - Consensus from trust
